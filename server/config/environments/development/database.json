@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "database": "server",
+        "host": "libre-ijok1.mongodb.net",
+        "srv": "true",
+        "port": 27017,
+        "username": "gokulthehunter",
+        "password": "funtrack1$"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}
